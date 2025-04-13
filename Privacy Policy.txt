@@ -1,0 +1,73 @@
+Privacy Policy  
+==============
+
+Last updated: April 13, 2025
+
+
+1. Introduction
+Cette politique de confidentialité explique comment l'application "Apprendre la Conjugaison" collecte, 
+utilise et protège vos informations lorsque vous utilisez l'application sur un appareil Android.
+
+2. Données collectées
+L'application ne collecte aucune donnée personnelle directement (nom, adresse, numéro de téléphone, etc.).
+
+Cependant, certains services tiers intégrés peuvent collecter des données :
+
+Publicités : nous utilisons des plateformes telles que Google AdMob ou Meta Audience Network pour afficher des publicités. 
+Ces services peuvent collecter des données anonymes telles que :
+
+Identifiant publicitaire (AAID)
+
+Type d’appareil
+
+Données de navigation dans l’application
+
+Localisation approximative (si activée)
+
+3. Utilisation des données
+Les données collectées automatiquement par les services de publicité sont utilisées pour :
+
+Afficher des publicités personnalisées
+
+Analyser les performances de l’application
+
+Améliorer l'expérience utilisateur
+
+4. Consentement
+En utilisant l'application, vous consentez à cette politique de confidentialité et à la collecte de données par les services tiers.
+
+5. Partage des données
+Nous ne partageons pas vos données personnelles avec des tiers. Toutefois, les plateformes de publicité 
+peuvent traiter vos données de façon autonome selon leurs propres politiques.
+
+6. Sécurité
+Nous nous engageons à protéger vos informations. Bien que l’application ne stocke pas de données personnelles sensibles, 
+les partenaires publicitaires appliquent leurs propres mesures de sécurité.
+
+7. Droits des utilisateurs
+Vous pouvez à tout moment :
+
+Réinitialiser votre identifiant publicitaire dans les paramètres de votre appareil.
+
+Désactiver la personnalisation des annonces.
+
+8. Modifications
+Cette politique peut être mise à jour à tout moment. Les utilisateurs seront informés via une mise à jour 
+de l'application ou un message dans l'application.
+
+9. Contact
+Pour toute question ou demande concernant cette politique, veuillez nous contacter à l’adresse suivante :
+
+
+Contact Us  
+----------
+
+I am a professor of mathematics and doctor of computer science.
+
+  * Country: Morocco
+  * Name : Lamriji
+
+If you have any questions about this Privacy Policy, You can contact us:
+
+  * By email: mathsyoussef2018@gmail.com
+
